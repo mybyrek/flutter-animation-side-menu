@@ -1,6 +1,7 @@
-# Drawer challenge
+# Flutter animation challenge 1 - Left side menu
 
-A Flutter implementation based on Minh Pham's [3D Flip design](https://dribbble.com/shots/4773637-3D-flip-menu).
+## Creator Qani Ajdini
+A Flutter animation implementation based on Minh Pham's [3D Flip design](https://dribbble.com/shots/4773637-3D-flip-menu).
 
 ## Design
 ![3dflip](https://user-images.githubusercontent.com/16286046/72804942-0198d700-3c52-11ea-9c15-1f1bff6264a7.gif)
