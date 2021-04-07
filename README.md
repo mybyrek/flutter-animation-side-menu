@@ -1,6 +1,5 @@
 # Flutter animation challenge 1 - Left side menu
 
-## Creator Qani Ajdini
 A Flutter animation implementation based on Minh Pham's [3D Flip design](https://dribbble.com/shots/4773637-3D-flip-menu).
 
 ## Design
